@@ -1,12 +1,12 @@
-"BUDDHIST_CALENDAR" = "Buddhist";
+"BUDDHIST_CALENDAR" = "Буддист";
 "CALENDAR" = "Хуанли";
 "CANCEL" = "Татгалзах";
 "DONE" = "Дуусгах";
-"GREGORIAN_CALENDAR" = "Gregorian";
+"GREGORIAN_CALENDAR" = "Грегориан";
 "INTERNATIONAL" = "Олон улс";
-"JAPANESE_CALENDAR" = "Japanese";
+"JAPANESE_CALENDAR" = "Япон";
 "LANGUAGE" = "Хэл";
 "LOCALE" = "Бүс нутгийн формат";
-"ROC_CALENDAR" = "Republic of China";
+"ROC_CALENDAR" = "БНХАУ";
 "SETTING_LANGUAGE" = "Хэлийг тохируулж байна…";
 "VOICECONTROL" = "Дуу хоолойгоор удирдах";
